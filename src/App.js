@@ -12,7 +12,7 @@ class MeliReact extends React.Component {
       query: ''
     }
   }
-
+//hola
   //Solo para pruebas
   componentDidMount(){
     this.setState({
